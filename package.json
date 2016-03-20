@@ -36,10 +36,11 @@
   ],
   "peerDependencies": {
     "react": "^0.14.0",
-    "react-dom": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "dependencies": {
     "sortablejs": "1.x"
   },
-  "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "^6.7.2",
